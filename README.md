@@ -1,5 +1,7 @@
 # AI Math Lab
 
+**Live website:** https://ai-math-lab-eyviww9zbh6pmuk4tmqpfv.streamlit.app/
+
 Built by RAGHUNANDAN, BGS College of Engineering and Technology
 
 Four mini AIs you can play with, each showing the maths behind it:
